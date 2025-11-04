@@ -38,8 +38,7 @@ print("Face shape:", faceImage.shape)
 ```
 
 
-<img width="346" height="435" alt="image" src="https://github.com/user-attachments/assets/c0a0f20b-0a6f-46a5-b954-2488f784d4c0" />
-
+<img width="813" height="429" alt="image" src="https://github.com/user-attachments/assets/056091f2-be87-4b90-acaf-d1342cfd764b" />
 
 
 ```
@@ -48,8 +47,8 @@ plt.imshow(glassJPG[:,:,::-1]); plt.title("glassJPG")
 print("Glass shape:", glassJPG.shape)
 ```
 
-<img width="552" height="396" alt="image" src="https://github.com/user-attachments/assets/e30643ec-a6d9-40c1-8458-3979cbf712b0" />
 
+<img width="650" height="409" alt="image" src="https://github.com/user-attachments/assets/98427015-76bc-411e-bcb2-872a233ec757" />
 
 
 ```
@@ -64,7 +63,7 @@ plt.imshow(glassBGR[:,:,::-1])  # BGR → RGB
 plt.title('Sunglass Color channels')
 ```
 
-<img width="584" height="417" alt="image" src="https://github.com/user-attachments/assets/5da07dcd-c45d-4378-9c31-34cb0b42a82c" />
+<img width="856" height="459" alt="image" src="https://github.com/user-attachments/assets/74e9fd48-19c2-4e50-9334-8677d444e670" />
 
 
 
@@ -76,7 +75,7 @@ plt.title('Sunglass Mask (generated)')
 ```
 
 
-<img width="282" height="216" alt="image" src="https://github.com/user-attachments/assets/ef6cf6c4-4f5b-4d65-adfc-e248a2690c80" />
+<img width="384" height="269" alt="image" src="https://github.com/user-attachments/assets/1450aac7-3dcb-467b-b6c4-fd53947295d1" />
 
 
 
@@ -128,8 +127,9 @@ else:
 ```
 
 
+<img width="920" height="535" alt="image" src="https://github.com/user-attachments/assets/d26949ab-d025-4997-903e-eabd66729a49" />
 
-<img width="624" height="812" alt="image" src="https://github.com/user-attachments/assets/67ebaf7e-b91f-4476-a17c-366e6d97aee4" />
+
 
 
 
