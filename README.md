@@ -37,8 +37,8 @@ plt.imshow(faceImage[:,:,::-1]); plt.title("Face")
 print("Face shape:", faceImage.shape)
 ```
 
+![WIN_20250909_13_32_43_Pro](https://github.com/user-attachments/assets/9b50e080-e89c-4462-b9d8-64635b31e866)
 
-<img width="346" height="435" alt="image" src="https://github.com/user-attachments/assets/c0a0f20b-0a6f-46a5-b954-2488f784d4c0" />
 
 
 
@@ -128,8 +128,8 @@ else:
 ```
 
 
+<img width="794" height="478" alt="download" src="https://github.com/user-attachments/assets/19e8a674-4d90-43c6-930b-6cfef147b87b" />
 
-<img width="624" height="812" alt="image" src="https://github.com/user-attachments/assets/67ebaf7e-b91f-4476-a17c-366e6d97aee4" />
 
 
 
